@@ -1,16 +1,46 @@
-<h1 align="center">Hi 👋, I'm Tayson Moisés</h1>
-<h3 align="center">Futuro Engenheiro de Computação</h3>
+# Olá! Eu sou o Tayson 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayson-m" alt="tayson-m" /></a> </p>
+Sou estudante de **Engenharia de Computação**, focado no desenvolvimento de sistemas que integram hardware e software.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🛠️ As Minhas Competências Técnicas
+
+### 🔌 Hardware & Sistemas Embarcados
+* **Lógica Digital:** Modelação e simulação de circuitos combinacionais e sequenciais (TinkerCad, Wokwi, Logisim).
+* **Sistemas Embarcados:** Arquitetura de computadores, microcontroladores, robótica e manutenção de hardware (Arduino, ESP-32).
+
+### 🌐 Redes & Infraestrutura
+* **Conectividade:** Configuração de redes, cabeamento estruturado (Cat5e, HDMI, Fibra) e conexões diretas entre dispositivos.
+* **Protocolos:** Arquitetura de redes de computadores.
+
+### 💻 Software & Engenharia de Produto
+* **Linguagens e Ferramentas:** Python orientado à análise de dados (Pandas, Jupyter/Colab).
+* **Modelação:** Modelação UML estruturada (Diagramas de Classes, Associações e Herança).
+* **Priorização de Requisitos:** Aplicação prática de frameworks como MoSCoW, RICE Matrix e Modelo Kano para estratégias de MVP.
+
+---
+
+## 🚀 Projetos em Destaque
+
+* **AutoParts Express:** Modelação completa de requisitos, arquitetura de software (UML) e planeamento de lançamentos para uma plataforma robusta de e-commerce de peças automóveis.
+* **Simulações de Lógica e DSP:** Desenvolvimento de filtros para tratamento de áudio e imagem, além de circuitos lógicos customizados.
+
+---
+
+## 📫 Como entrar em contacto comigo?
+
+* **LinkedIn:** [Tayson_Moises](www.linkedin.com/in/tayson-moisés-costa-do-carmo-b68930338)
+* **E-mail:** [taysonmoises10@gmail.com](taysonmoises10@gmail.com)
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayson-m&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="tayson-m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayson-m&show_icons=true&theme=tokyonight&locale=en" alt="tayson-m" /></p>
 
+---
+
+<p align="center">
+  <i>"A Engenharia de Computação é a arte de transformar lógica e eletrónica em soluções reais para o mundo."</i>
+</p>
