@@ -6,8 +6,6 @@ Sou estudante de **Engenharia de Computação**, focado no desenvolvimento de si
 
 ## 🛠️ As Minhas Competências Técnicas
 
----
-
 ### 🔌 Hardware & Sistemas Embarcados
 * **Lógica Digital:** Modelação e simulação de circuitos combinacionais e sequenciais (TinkerCad, Wokwi, Logisim).
 * **Sistemas Embarcados:** Arquitetura de computadores, microcontroladores, robótica e manutenção de hardware (Arduino, ESP-32).
@@ -50,9 +48,9 @@ Sou estudante de **Engenharia de Computação**, focado no desenvolvimento de si
 ---
 
 ## 📫 Como entrar em contato comigo?
-
-* **LinkedIn:** [Tayson_Moises](www.linkedin.com/in/tayson-moisés-costa-do-carmo-b68930338)
-* **E-mail:** [taysonmoises10@gmail.com](taysonmoises10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TaysonMoises-24292e?style=flat&logo=github)](https://github.com/Tayson-M)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TaysonMoises-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/tayson-moisés-costa-do-carmo-b68930338)
+[![Email](https://img.shields.io/badge/Email-taysonmoises10%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taysonmoises10@gmail.com)
 
 <p align="center">
   <i>"A Engenharia de Computação é a arte de transformar lógica e eletrónica em soluções reais para o mundo."</i>
