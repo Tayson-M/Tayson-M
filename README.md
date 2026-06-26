@@ -49,7 +49,9 @@ Uma visão geral das linguagens, frameworks e ferramentas que utilizo no ecossis
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayson-m&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="tayson-m" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tayson-m&show_icons=true&theme=tokyonight&locale=en" alt="tayson-m" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tayson-m&show_icons=true&theme=tokyonight&locale=en" alt="tayson-m" /></p>
+
+---
 
 <p align="center">
   <i>"A Engenharia de Computação é a arte de transformar lógica e eletrónica em soluções reais para o mundo."</i>
