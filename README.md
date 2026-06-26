@@ -27,6 +27,12 @@ Sou estudante de **Engenharia de Computação**, focado no desenvolvimento de si
 * **Simulações de Lógica e DSP:** Desenvolvimento de filtros para tratamento de áudio e imagem, além de circuitos lógicos customizados.
 
 ---
+
+## 🧰 Tecnologias & Ferramentas
+
+Uma visão geral das linguagens, frameworks e ferramentas que utilizo no ecossistema da Engenharia de Computação:
+
+<div align="center">
   
   | Categoria | Tecnologias | Ícones |
   | :--- | :--- | :--- |
@@ -36,21 +42,14 @@ Sou estudante de **Engenharia de Computação**, focado no desenvolvimento de si
   | **DevOps & Cloud** | Docker, AWS, Oracle | <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/></a> &nbsp; <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/></a> &nbsp; <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>|
   | **Dados & Graficos** | Pandas, Seaborn| <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/></a> &nbsp; <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/></a> |
   | **Bases de Dados** | SQL Server, MongoDB | <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/></a> &nbsp; <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/></a> |
-  
-  
+
+</div>
 
 ---
-  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayson-m&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="tayson-m" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayson-m&show_icons=true&theme=tokyonight&locale=en" alt="tayson-m" /></p>
-
----
-
-## 📫 Como entrar em contato comigo?
-[![GitHub](https://img.shields.io/badge/GitHub-TaysonMoises-24292e?style=flat&logo=github)](https://github.com/Tayson-M)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TaysonMoises-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/tayson-moisés-costa-do-carmo-b68930338)
-[![Email](https://img.shields.io/badge/Email-taysonmoises10%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taysonmoises10@gmail.com)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tayson-m&show_icons=true&theme=tokyonight&locale=en" alt="tayson-m" /></p>
 
 <p align="center">
   <i>"A Engenharia de Computação é a arte de transformar lógica e eletrónica em soluções reais para o mundo."</i>
